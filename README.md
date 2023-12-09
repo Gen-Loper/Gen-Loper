@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gen-Loper
-- 👀 I’m interested in front end Design
+- 👀 I’m interested in front end designing
 - 🌱 I’m currently learning computer science and engineering
 - 💞️ I’m looking to collaborate on real time projects
 
