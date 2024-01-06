@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gen-Loper
 - 👀 I’m interested in front end designing
-- 🌱 I’m currently learning computer science and engineering
+- 🌱 I’m currently learning in computer science and engineering
 - 💞️ I’m looking to collaborate on real time projects
 
 <!---
